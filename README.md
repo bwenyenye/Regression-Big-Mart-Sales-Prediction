@@ -1,7 +1,7 @@
 # Regression-Big-Mart-Sales-Prediction
-## H2 About the Project
+##  About the Project
 This a machine learning regression project that predicts the sales data of Big Mart grocery store chain.
-## H2 Prerequisities
+##  Prerequisities
 In this project, the following libraries and dependencies have been used:
 * Numpy
 * Pandas
@@ -13,7 +13,7 @@ In this project, the following libraries and dependencies have been used:
 * metrics
 * train_test_split
 
-## H2 Dataset
+##  Dataset
 The Dataset has been obtained from Kaggle and is public [here](/datasets/brijbhushannanda1979/bigmart-sales-data)
 The Column labels are as follows:
 	* Item_Identifier
@@ -66,7 +66,7 @@ The Column labels are as follows:
    * Item_Weight 
    * Outlet_Size 
    
-  ## H2 Roadmap
+  ##  Roadmap
   * The aim of this project is to predict Item_Outlet_Sales based on the features in the dataset.
   * I collected the data from kaggle and found missing values in the columns  Item_Weight  and  Outlet_Size.
   * I replaced the missing values in the Item_Weight  column with the mean and the missing values in the Outlet_Size column with the mode of the column.
@@ -78,7 +78,7 @@ The Column labels are as follows:
   * I modelled the data with an XGBoost Regressor and evaluated the results with the R-squared framework.
   
   
-  ## H2 Results and Discussion
+  ##  Results and Discussion
   
  
    
