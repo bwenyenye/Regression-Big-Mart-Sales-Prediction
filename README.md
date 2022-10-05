@@ -15,8 +15,9 @@ In this project, the following libraries and dependencies have been used:
 
 ##  Dataset
 The Dataset has been obtained from Kaggle and is public [here](/datasets/brijbhushannanda1979/bigmart-sales-data)
+
 The Column labels are as follows:
-	* Item_Identifier
+  * Item_Identifier
   * Item_Weight
   *  Item_Fat_Content
   * Item_Visibility
